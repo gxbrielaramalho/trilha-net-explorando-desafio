@@ -19,3 +19,8 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Alterações feitas por mim.
+1. CadastrarHospedes: Adicionada a verificação da capacidade da suíte e lançamento de exceção se necessário.
+2. ObterQuantidadehospedes: Retorna a quantidade total de hóspedes.
+3. CalcularValorDiaria: Calcula o valor total da diária, aplicando desconto se a reserva for de 10 dias ou mais.
